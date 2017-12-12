@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sbe9c7e78a094ab2a11d83256dc8f648",
+    "_text_": "Segment with row skins",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8f94ea0c7e2473d9a41eb013a44a969",
+    "hexpand": true,
+    "id": "button1927359800104825",
+    "ide_onClick": "p2kwiet20606288542625_button1927359800104825_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288542622",
+    "name": "kony.ui.Button",
+    "parent": "frmSegmentOptions",
+    "pf": "frmSegmentOptions",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidButtonProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

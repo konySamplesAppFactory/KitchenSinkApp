@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s802216f3a3a473bb1056632a65b65bd",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.form.AndroidFormProperty",
+        "displayOrientation": 1,
+        "footerOverlap": false,
+        "headerOverlap": false,
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "isModal": false,
+        "menuPosition": 2,
+        "needAppMenu": true,
+        "outTransitionConfig": {
+            "formAnimation": 0
+        },
+        "psp": {
+            "showActionBar": true,
+            "showActionBarIcon": true,
+            "windowSoftInputMode": 1
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "sboxGlobalHome"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footeroverlap": false,
+    "headeroverlap": false,
+    "id": "frmScrollBoxMenu",
+    "ide_init": "p2kwiet20606288544451_frmScrollBoxMenu_init_seq0",
+    "info": null,
+    "initdone": false,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "frmScrollBoxMenuAndroid",
+    "margininpixel": false,
+    "menuposition": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "percent": true,
+    "restorewidgetprototypes": true,
+    "retainscrollposition": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.form.SPAFormProperty",
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "isModal": false,
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "formTransition": "none"
+        },
+        "psp": {
+            "dockableAppMenu": true,
+            "dockableFooter": true,
+            "dockableHeader": true
+        }
+    },
+    "templateType": "forms",
+    "titleBarSkin": "sb32202b8a8b491180a5a177fd32cbc0",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "type": 3,
+    "wType": "Form",
+    "widgetalignment": 1
+}

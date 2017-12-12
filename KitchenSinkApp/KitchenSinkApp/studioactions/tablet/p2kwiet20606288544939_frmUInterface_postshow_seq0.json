@@ -1,0 +1,39 @@
+{
+    "p2kwiet20606288544939_frmUInterface_postshow_seq0": {
+        "id": "p2kwiet20606288544939_frmUInterface_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_postshow_494620606288541451",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "andTab==0"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_postshow_9429520606288541795",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "customcode_postshow_8347720606288547018",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setTabUiSbxWidDetails",
+            "display": "setTabUiSbxWidDetails",
+            "parentId": "decision_postshow_494620606288541451"
+        }, {
+            "id": "expression_postshow_3338620606288544216",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "andTab=1;",
+            "parentId": "decision_postshow_494620606288541451"
+        }]
+    }
+}

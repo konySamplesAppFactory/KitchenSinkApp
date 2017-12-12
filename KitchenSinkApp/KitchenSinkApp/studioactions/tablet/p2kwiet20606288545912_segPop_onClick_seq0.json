@@ -1,0 +1,20 @@
+{
+    "p2kwiet20606288545912_segPop_onClick_seq0": {
+        "id": "p2kwiet20606288545912_segPop_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "rowindex",
+            "value": "rowindex"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_8404320606288549089",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popSegSelect",
+            "display": "popSegSelect"
+        }]
+    }
+}

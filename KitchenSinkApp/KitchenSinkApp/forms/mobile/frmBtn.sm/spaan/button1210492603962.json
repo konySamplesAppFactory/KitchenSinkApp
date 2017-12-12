@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "seb042e6fa564c58946ff70796b625bc",
+    "_text_": "Button with single color",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbda6fe22e084ce6a5177ca1643307cf",
+    "hexpand": true,
+    "id": "button1210492603962",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet2060628854468",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidButtonProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

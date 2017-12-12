@@ -1,0 +1,35 @@
+{
+    "p2kwiet20606288542128_button192735980042699_onClick_seq0": {
+        "id": "p2kwiet20606288542128_button192735980042699_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_onClick_4798220606288549313",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "glbScrollBegining == false"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_onClick_9367620606288548663",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "expression_onClick_8948820606288541365",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Entered True\");\n glbScrollBegining = true\n frmScrollBoxMenu.sboxGlobalHome.scrollToBeginning()",
+            "parentId": "decision_onClick_4798220606288549313"
+        }, {
+            "id": "expression_onClick_9953520606288541312",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Entered False\");\n glbScrollBegining = false\n frmScrollBoxMenu.sboxGlobalHome.scrollToEnd()",
+            "parentId": "decision_onClick_9367620606288548663"
+        }]
+    }
+}

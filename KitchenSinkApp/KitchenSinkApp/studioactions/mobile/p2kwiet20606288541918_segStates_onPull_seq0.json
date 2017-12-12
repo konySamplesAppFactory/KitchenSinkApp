@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288541918_segStates_onPull_seq0": {
+        "id": "p2kwiet20606288541918_segStates_onPull_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onPull_9961520606288547396",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "refresh",
+            "display": "refresh",
+            "inputparams": [{
+                "name": "seguiWidget",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

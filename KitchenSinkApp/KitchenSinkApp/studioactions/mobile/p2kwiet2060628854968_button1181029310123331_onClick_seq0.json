@@ -1,0 +1,25 @@
+{
+    "p2kwiet2060628854968_button1181029310123331_onClick_seq0": {
+        "id": "p2kwiet2060628854968_button1181029310123331_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_4174020606288546634",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocalStore",
+            "formKUID": "p2kwiet20606288541664",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }, {
+            "id": "expression_onClick_593620606288547542",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLocalStore.lblLocalClear.text = \"\"\n frmLocalStore.frmLocalTxtSet2.text == \"\" \n frmLocalStore.frmLocalTxtSet1.text == \"\""
+        }]
+    }
+}

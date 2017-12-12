@@ -1,0 +1,17 @@
+{
+    "p2kwiet2060628854992_frmFlex_preshow_seq0": {
+        "id": "p2kwiet2060628854992_frmFlex_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_6374620606288542170",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetWidgetPositions",
+            "display": "resetWidgetPositions"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "p2kwiet20606288541905_frmPlatforms_preshow_seq0": {
+        "id": "p2kwiet20606288541905_frmPlatforms_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_3998520606288541122",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "platformCheck",
+            "display": "platformCheck"
+        }]
+    }
+}

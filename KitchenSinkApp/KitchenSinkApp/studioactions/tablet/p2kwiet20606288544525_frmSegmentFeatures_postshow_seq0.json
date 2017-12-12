@@ -1,0 +1,38 @@
+{
+    "p2kwiet20606288544525_frmSegmentFeatures_postshow_seq0": {
+        "id": "p2kwiet20606288544525_frmSegmentFeatures_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_postshow_110120606288548599",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.os.deviceInfo().name == \"Windows\" && channel == \"tablet\")\n {\n frmSegmentFeatures.segSegmentFeatureCat.separatorThickness = 0;\n }"
+        }, {
+            "id": "customcode_postshow_8189620606288542538",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segmentFeaturesSetting",
+            "display": "segmentFeaturesSetting"
+        }, {
+            "id": "customcode_postshow_3648720606288541006",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SecHdrTemplatesTab",
+            "display": "SecHdrTemplatesTab"
+        }, {
+            "id": "customcode_postshow_6375920606288547102",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dataForSeg",
+            "display": "dataForSeg",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": ""
+            }]
+        }]
+    }
+}

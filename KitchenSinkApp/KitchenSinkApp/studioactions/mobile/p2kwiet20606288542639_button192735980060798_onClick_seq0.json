@@ -1,0 +1,17 @@
+{
+    "p2kwiet20606288542639_button192735980060798_onClick_seq0": {
+        "id": "p2kwiet20606288542639_button192735980060798_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_7951020606288541704",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SecHdrWidoutTemplatesJSSPA",
+            "display": "SecHdrWidoutTemplatesJSSPA"
+        }]
+    }
+}

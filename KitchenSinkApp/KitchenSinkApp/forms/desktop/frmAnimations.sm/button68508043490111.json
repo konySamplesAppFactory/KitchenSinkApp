@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "sbe9c7e78a094ab2a11d83256dc8f648",
+    "_text_": "Top",
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.DesktopWebButtonProperty",
+        "displayText": true,
+        "render": true
+    },
+    "displaytext": true,
+    "focusskin": "s8f94ea0c7e2473d9a41eb013a44a969",
+    "hexpand": true,
+    "id": "button68508043490111",
+    "ide_onClick": "p2kwiet20606288545091_button68508043490111_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet20606288545080",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox68508043489238",
+    "pf": "frmAnimations",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

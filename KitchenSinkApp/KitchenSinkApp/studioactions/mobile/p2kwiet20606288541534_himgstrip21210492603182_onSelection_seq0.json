@@ -1,0 +1,16 @@
+{
+    "p2kwiet20606288541534_himgstrip21210492603182_onSelection_seq0": {
+        "id": "p2kwiet20606288541534_himgstrip21210492603182_onSelection_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onSelection_4980020606288549836",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"entered here\")"
+        }]
+    }
+}

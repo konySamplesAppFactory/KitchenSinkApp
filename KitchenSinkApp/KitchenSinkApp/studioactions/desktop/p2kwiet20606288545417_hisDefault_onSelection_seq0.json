@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288545417_hisDefault_onSelection_seq0": {
+        "id": "p2kwiet20606288545417_hisDefault_onSelection_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onSelection_3543120606288543870",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hIS",
+            "display": "hIS",
+            "inputparams": [{
+                "name": "eventobj",
+                "value": " eventobject"
+            }]
+        }]
+    }
+}

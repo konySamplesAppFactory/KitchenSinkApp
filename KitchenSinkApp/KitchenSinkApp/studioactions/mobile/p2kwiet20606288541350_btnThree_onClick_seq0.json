@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288541350_btnThree_onClick_seq0": {
+        "id": "p2kwiet20606288541350_btnThree_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_3871020606288542685",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmImgCrop",
+            "formKUID": "p2kwiet20606288541361",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288544966_btnContainerWidTab_onClick_seq0": {
+        "id": "p2kwiet20606288544966_btnContainerWidTab_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_8373520606288545079",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onWidgetCatBtnsClick",
+            "display": "onWidgetCatBtnsClick",
+            "inputparams": [{
+                "name": "btnId",
+                "value": "eventobject.id"
+            }]
+        }]
+    }
+}

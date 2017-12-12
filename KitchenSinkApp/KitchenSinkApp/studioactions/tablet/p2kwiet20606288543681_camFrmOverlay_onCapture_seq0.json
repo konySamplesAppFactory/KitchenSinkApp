@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288543681_camFrmOverlay_onCapture_seq0": {
+        "id": "p2kwiet20606288543681_camFrmOverlay_onCapture_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onCapture_4527620606288542281",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCaptureFrmOverLayTab",
+            "display": "onCaptureFrmOverLayTab",
+            "inputparams": [{
+                "name": "cameraObj",
+                "value": "eventobject"
+            }]
+        }]
+    }
+}

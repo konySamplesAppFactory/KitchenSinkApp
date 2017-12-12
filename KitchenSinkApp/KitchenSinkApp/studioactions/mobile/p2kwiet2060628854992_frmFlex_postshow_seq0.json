@@ -1,0 +1,17 @@
+{
+    "p2kwiet2060628854992_frmFlex_postshow_seq0": {
+        "id": "p2kwiet2060628854992_frmFlex_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_postshow_7485520606288542429",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateFlex",
+            "display": "animateFlex"
+        }]
+    }
+}

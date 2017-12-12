@@ -1,0 +1,21 @@
+{
+    "p2kwiet20606288542598_btnSegMulSel_onClick_seq0": {
+        "id": "p2kwiet20606288542598_btnSegMulSel_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_5435220606288545133",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SecHdrWidoutTemplatesJS",
+            "display": "SecHdrWidoutTemplatesJS",
+            "inputparams": [{
+                "name": "evenObj",
+                "value": " eventobject"
+            }]
+        }]
+    }
+}

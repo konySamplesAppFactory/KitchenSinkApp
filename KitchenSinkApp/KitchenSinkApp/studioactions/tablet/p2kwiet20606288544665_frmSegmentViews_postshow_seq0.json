@@ -1,0 +1,24 @@
+{
+    "p2kwiet20606288544665_frmSegmentViews_postshow_seq0": {
+        "id": "p2kwiet20606288544665_frmSegmentViews_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_postshow_6011020606288546481",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(kony.os.deviceInfo().name == \"Windows\" && channel == \"tablet\")\n {\n frmSegmentViews.segSegmentViewsCat.separatorThickness = 0;\n }"
+        }, {
+            "id": "customcode_postshow_9445420606288546292",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segmentViewsSetting",
+            "display": "segmentViewsSetting"
+        }]
+    }
+}

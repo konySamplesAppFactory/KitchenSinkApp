@@ -1,0 +1,47 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9980a400a4e4786a4de149e609b8e3e",
+    "_text_": "",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "contentAlignment": 5,
+        "displayText": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 16,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf81ab43182f41e39a26fa6881bdbe44",
+    "hexpand": false,
+    "id": "button192735980042699",
+    "ide_onClick": "p2kwiet20606288542128_button192735980042699_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288542112",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox192735980042698",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

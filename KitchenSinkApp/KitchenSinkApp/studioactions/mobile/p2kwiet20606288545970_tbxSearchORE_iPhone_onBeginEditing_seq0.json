@@ -1,0 +1,20 @@
+{
+    "p2kwiet20606288545970_tbxSearchORE_iPhone_onBeginEditing_seq0": {
+        "id": "p2kwiet20606288545970_tbxSearchORE_iPhone_onBeginEditing_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "changedtext",
+            "value": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onBeginEditing_2285620606288548356",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "beginEdit",
+            "display": "beginEdit"
+        }]
+    }
+}

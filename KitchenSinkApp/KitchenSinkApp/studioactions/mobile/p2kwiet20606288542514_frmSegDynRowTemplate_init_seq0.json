@@ -1,0 +1,25 @@
+{
+    "p2kwiet20606288542514_frmSegDynRowTemplate_init_seq0": {
+        "id": "p2kwiet20606288542514_frmSegDynRowTemplate_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_init_4206520606288545312",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initArray",
+            "display": "initArray"
+        }, {
+            "id": "customcode_init_3215720606288543755",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "rowTempSetData",
+            "display": "rowTempSetData"
+        }]
+    }
+}

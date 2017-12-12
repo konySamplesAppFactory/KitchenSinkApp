@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "sbe9c7e78a094ab2a11d83256dc8f648",
+    "_text_": "Section header template",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8f94ea0c7e2473d9a41eb013a44a969",
+    "hexpand": true,
+    "id": "button192735980060798",
+    "ide_onClick": "p2kwiet20606288542639_button192735980060798_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288542632",
+    "name": "kony.ui.Button",
+    "parent": "frmSegmentOptions",
+    "pf": "frmSegmentOptions",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPABBButtonProperty",
+        "_margin_": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            4,
+            2,
+            4,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

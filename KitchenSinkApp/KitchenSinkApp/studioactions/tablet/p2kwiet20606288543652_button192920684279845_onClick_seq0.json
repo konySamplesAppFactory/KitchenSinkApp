@@ -1,0 +1,17 @@
+{
+    "p2kwiet20606288543652_button192920684279845_onClick_seq0": {
+        "id": "p2kwiet20606288543652_button192920684279845_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6142120606288544003",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "CalendarRemoveEvent",
+            "display": "CalendarRemoveEvent"
+        }]
+    }
+}

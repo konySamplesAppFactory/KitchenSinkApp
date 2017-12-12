@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7e22a8d2ad24676876688e0dfabd62d",
+    "_text_": "Forward",
+    "canUpdateUI": true,
+    "containerweight": 33,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s82ce9f18520405db8318877187f2be1",
+    "hexpand": true,
+    "id": "btnInlineForward",
+    "ide_onClick": "p2kwiet2060628854391_btnInlineForward_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet2060628854386",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbxInLineBrowser",
+    "pf": "frmBrowser",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPhoneButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

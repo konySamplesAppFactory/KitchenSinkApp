@@ -1,0 +1,40 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sda5c3c4dc30426e94d03afaf84eb067",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "lblBasicWidget"
+    ],
+    "containerweight": 100,
+    "id": "vbox2060628854361",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288544971",
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.vbox.SPAVBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

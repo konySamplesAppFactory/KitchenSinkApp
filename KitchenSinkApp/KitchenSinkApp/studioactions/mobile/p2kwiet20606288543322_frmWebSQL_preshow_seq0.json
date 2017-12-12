@@ -1,0 +1,19 @@
+{
+    "p2kwiet20606288543322_frmWebSQL_preshow_seq0": {
+        "id": "p2kwiet20606288543322_frmWebSQL_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_preshow_6393120606288544372",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmWebSQL.lblWebSqlUpdate.text =\"\""
+        }]
+    }
+}

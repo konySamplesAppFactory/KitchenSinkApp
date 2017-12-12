@@ -1,0 +1,17 @@
+{
+    "p2kwiet20606288542372_hbox192735980042714_onClick_seq0": {
+        "id": "p2kwiet20606288542372_hbox192735980042714_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6618620606288548651",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "homeBtnClick",
+            "display": "homeBtnClick"
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sce9a66f274b4def9ffb861555ef3edb",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "label121043302135621",
+        "label121043302135345",
+        "label121043302135344"
+    ],
+    "containerweight": 100,
+    "id": "hbox121043302135343",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet2060628854699",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "vbox2060628854143",
+    "pf": "vbox2060628854143",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

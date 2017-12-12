@@ -1,0 +1,52 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        4,
+        0,
+        4
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "sf96c8c82963477dbd76a84399efceba",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "image2192911746997791",
+        "label192911746997793"
+    ],
+    "containerweight": 100,
+    "focusskin": "sae7034476bb4ff594f0d179b488e466",
+    "id": "hbox192911746997789",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288544405",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "vbox192735980042695",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

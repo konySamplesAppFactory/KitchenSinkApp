@@ -1,0 +1,26 @@
+{
+    "p2kwiet206062885425_button1927359800104647_onClick_seq0": {
+        "id": "p2kwiet206062885425_button1927359800104647_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_8593520606288547584",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "regAccEvent",
+            "display": "regAccEvent"
+        }, {
+            "id": "navigation_onClick_4192220606288547460",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRegisterAccelerometer",
+            "formKUID": "p2kwiet20606288541953",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

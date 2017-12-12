@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "sbe9c7e78a094ab2a11d83256dc8f648",
+    "_text_": "Clear",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8f94ea0c7e2473d9a41eb013a44a969",
+    "hexpand": true,
+    "id": "button1930040990144455",
+    "ide_onClick": "p2kwiet20606288541707_button1930040990144455_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet20606288541700",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox1930040990144453",
+    "pf": "frmLocalStore",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPhoneButtonProperty",
+        "_padding_": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "padding": [
+            0,
+            3,
+            0,
+            3
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

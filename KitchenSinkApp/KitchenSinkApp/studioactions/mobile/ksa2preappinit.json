@@ -1,0 +1,26 @@
+{
+    "ksa2preappinit": {
+        "id": "ksa2preappinit",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "params",
+            "value": "params"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preappinit_1792920606288544847",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setChannelMobile",
+            "display": "setChannelMobile"
+        }, {
+            "id": "customcode_preappinit_2135120606288542193",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createAppMenu",
+            "display": "createAppMenu"
+        }, {
+            "id": "expression_preappinit_5909320606288546934",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "count = 1;\n flag =0;\n flag1 =0;\n webSQLFlag = 0;\n j = 0;"
+        }]
+    }
+}

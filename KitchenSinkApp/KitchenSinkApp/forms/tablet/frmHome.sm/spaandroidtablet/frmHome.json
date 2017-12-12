@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s802216f3a3a473bb1056632a65b65bd",
+    "_title_": "UI Library",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "hbox11819528316870",
+        "lnkFeedback"
+    ],
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footeroverlap": false,
+    "headeroverlap": false,
+    "id": "frmHome",
+    "info": null,
+    "initdone": false,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "frmHomeSPAAndroidTablet",
+    "margininpixel": false,
+    "menuposition": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "percent": true,
+    "restorewidgetprototypes": true,
+    "retainscrollposition": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.form.SPAFormProperty",
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "isModal": false,
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "formTransition": "none"
+        },
+        "psp": {
+            "dockableAppMenu": true,
+            "dockableFooter": true,
+            "dockableHeader": true
+        }
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.container.property.form.SPAAndroidTabletFormProperty",
+        "needAppMenu": true,
+        "render": true
+    },
+    "templateType": "forms",
+    "titleBarSkin": "sb32202b8a8b491180a5a177fd32cbc0",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "type": 3,
+    "wType": "Form",
+    "widgetalignment": 1
+}

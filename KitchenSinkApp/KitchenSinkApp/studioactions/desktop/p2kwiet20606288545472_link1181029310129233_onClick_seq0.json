@@ -1,0 +1,16 @@
+{
+    "p2kwiet20606288545472_link1181029310129233_onClick_seq0": {
+        "id": "p2kwiet20606288545472_link1181029310129233_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_8368820606288543656",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.openURL(\"http://www.konylabs.com\");"
+        }]
+    }
+}

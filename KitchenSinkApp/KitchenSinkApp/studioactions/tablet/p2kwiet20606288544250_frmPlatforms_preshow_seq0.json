@@ -1,0 +1,25 @@
+{
+    "p2kwiet20606288544250_frmPlatforms_preshow_seq0": {
+        "id": "p2kwiet20606288544250_frmPlatforms_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_3410020606288548544",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "orientChange_frmPlatforms_androidTab",
+            "display": "orientChange_frmPlatforms_androidTab"
+        }, {
+            "id": "customcode_preshow_739220606288544339",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "platformCheck",
+            "display": "platformCheck"
+        }]
+    }
+}

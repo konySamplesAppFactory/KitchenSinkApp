@@ -1,0 +1,20 @@
+{
+    "p2kwiet20606288545728_frmSegScreenLevel_postshow_seq0": {
+        "id": "p2kwiet20606288545728_frmSegScreenLevel_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_postshow_3683220606288547438",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segwidDictionary",
+            "display": "segwidDictionary"
+        }]
+    }
+}

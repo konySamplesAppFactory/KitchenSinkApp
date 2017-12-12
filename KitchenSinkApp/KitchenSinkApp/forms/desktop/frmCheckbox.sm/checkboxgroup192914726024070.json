@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_orientation_": "vertical",
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_skin_": "s16ab7e7c4274c078676a1dfb9350048",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "BasicWidgets1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.DesktopWebCheckBoxProperty",
+        "itemOrientation": "horizontal",
+        "render": true
+    },
+    "focusskin": "sa9a485d8c4c453d9ec507ea071b3fbf",
+    "id": "checkboxgroup192914726024070",
+    "info": null,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.KioskCheckBoxProperty",
+        "itemOrientation": "horizontal",
+        "render": true
+    },
+    "kuid": "p2kwiet20606288545153",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "key1",
+            "Value1"
+        ],
+        [
+            "key2",
+            "Value2"
+        ],
+        [
+            "key3",
+            "Value3"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "paddinginpixel": false,
+    "parent": "hbox68508043411768",
+    "pf": "frmCheckbox",
+    "selectedkey": null,
+    "selectedkeys": [
+        "key1"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.checkbox.SPACheckBoxProperty",
+        "itemOrientation": "horizontal"
+    },
+    "vexpand": false,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 1
+}
